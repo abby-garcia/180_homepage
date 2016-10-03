@@ -3,7 +3,8 @@
 
 .header{
 	float:right;
-	margin-right: 
+	margin-right: 39px;
+    margin-top: 10px;
 }
 
 .header ul li{
@@ -11,6 +12,7 @@
 	display: inline-block;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 16px;
+	margin-left: 12px;
 
 
 }
@@ -19,8 +21,22 @@
 .hello{
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 40px;
+	padding-top: 45px;
 
 }
+
+.greeting{
+	font-size: 40px;
+	color:indianred;
+}
+
+.avatar{
+	width: 100px;
+    height: 100px;
+    float: right;
+
+}
+
 /*Hello Ends*/
 
 
@@ -33,6 +49,6 @@
 
 .day_font{
 	font-family: 'Ubuntu', sans-serif;
-	font-size: 32px;
+	font-size: 20px;
 
 }
