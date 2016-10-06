@@ -1,4 +1,7 @@
+*{
+	font-family: 'Ubuntu', sans-serif;
 
+}
 
 
 .header{
@@ -39,12 +42,25 @@
 
 /*Hello Ends*/
 
+/*Middle Section*/
+hr{
+	width:400px;
+	color:orange;
+}
 
+.middle h3{
+	text-align: center;
+}
+
+/*Middle Section*/
 
 /*Days*/
+.days{
+	padding-left:7%;
+}
+
 .days ul{
 	list-style: none;
-
 }
 
 .day_font{
